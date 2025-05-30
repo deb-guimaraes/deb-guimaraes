@@ -4,7 +4,7 @@
 
 👋 Oi, eu sou a Débora, mas pode me chamar de Deb! Tenho 21 anos e sou de São Paulo.
 
-💻 Me formei no ensino médio integrado ao curso de Informática para Internet na ETEC e, desde então, sigo aprimorando meus conhecimentos em tecnologia.
+💻 Me formei no ensino médio integrado ao curso de Informática para Internet na ETEC e atualmente, sou graduanda em Engenharia de Software. Sigo aprimorando meus conhecimentos em tecnologia e explorando cada vez mais a área.
 
 🚀 Estou sempre estudando e explorando novas soluções, combinando lógica e criatividade para resolver problemas de forma eficiente.
 
@@ -32,7 +32,7 @@
 
 <div style="display: flex; gap: 10px;">
 
-<a href="www.linkedin.com/in/deboraoguimaraes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/deboraoguimaraes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <a href="mailto:deb.guimaraes7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
